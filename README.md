@@ -1,0 +1,2 @@
+# RRTestDesarrollador
+Proyecto Final de Corte: ACME ha iniciado un proceso de selección de personal, para esto cada empleado potencial debe presentar una entrevista y un test de desarrollo de soluciones software.  El test consiste en desarrollar una problemática en particular que involucre colecciones, bases de datos y patrones de diseño utilizando la plataforma de desarrollo de Java. Para lo cual desea ofrecer el siguiente servicio.
